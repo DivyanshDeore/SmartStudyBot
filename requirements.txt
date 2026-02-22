@@ -1,0 +1,4 @@
+fastapi
+unvicorn
+pymongo
+python-dotenv
